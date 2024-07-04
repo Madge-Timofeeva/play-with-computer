@@ -42,5 +42,9 @@ h3{
     #container{
         width: 70%;
     }
+
+    #guess{
+        width: 60%;
+    }
 }
 
